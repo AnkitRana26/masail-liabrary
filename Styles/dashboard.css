@@ -1,0 +1,33 @@
+table{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+thead{
+    background-color: #FFD44E;
+
+
+}
+
+
+
+h1{
+    text-align: center;
+}
+
+.red{
+    background-color: #007F00;
+    color: white;
+}
+
+.green{
+    background-color: #FF0000;
+    color: white;
+}
+
+
+tbody > tr{
+    padding: 10px 3px
+}
